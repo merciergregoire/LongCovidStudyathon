@@ -27,6 +27,8 @@ Anneli Uusküla 3
 
 Daniel Dedman 4
 
+Gregoire Mercier 5,6
+
 1 - Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences. University of Oxford.
 
 2 - Institute of Computer Science, University of Tartu, Tartu, Estonia
@@ -35,6 +37,8 @@ Daniel Dedman 4
 
 4 - 
 
+5  -Public Health Department, University Hospital of Montpellier, 34295 Montpellier, France
 
+6  - IDESP, Université de Montpellier, INSERM, 34000 Montpellier, France
 
 
